@@ -7,7 +7,7 @@ int main()
 {
 int ch;
 
-    
+    cout<<"In this town, there are 5 non-cable TV channels.\n";
     cout<<"Which non-cable channel is your favorite (2, 4, 6, 8, 11)?\n";
     cin>>ch;
     
